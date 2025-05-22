@@ -51,7 +51,7 @@ Orange	17	11.9
 A bar chart visualizing revenue per product was also generated.
 
 📁 Files Included
-`sales_data.db` – SQLite database file
-`task7_sales_summary.ipynb` – Jupyter Notebook
-`sales_chart.png` - Bar Chart of Revenue by Product - 
-`README.md` – this file
+- `sales_data.db` – SQLite database file
+- `task7_sales_summary.ipynb` – Jupyter Notebook
+- `sales_chart.png` - Bar Chart of Revenue by Product 
+- `README.md` – this file
